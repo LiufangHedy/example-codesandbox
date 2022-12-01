@@ -15,7 +15,7 @@ export default function App() {
       <h1>Hello there</h1>
       <h2>Start editing to see some magic happen!</h2>
       <button onClick={clickHandler}> Click Me </button>
-      <p> {msg} hi </p>
+      <p> {msg} hello </p>
     </div>
   );
 }
